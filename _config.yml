@@ -10,7 +10,7 @@ title:       Type
 email:       ''
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         "https://Jkeehoon.github.io"
+url:         'https://Jkeehoon.github.io'
 twitter:     ''
 github:      ''
 instagram:   ''
